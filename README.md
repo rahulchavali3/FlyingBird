@@ -1,18 +1,33 @@
-## Getting Started
+# FlyingBird 🐦
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+FlyingBird is a fun and interactive 2D Java game inspired by the classic "Flappy Bird". It challenges players to control a bird and fly between obstacles to earn points without hitting them.
 
-## Folder Structure
+## 🚀 Features
 
-The workspace contains two folders by default, where:
+- Smooth bird movement with gravity and jumping effect
+- Dynamic pipe generation
+- Score tracking
+- Game over detection and restart option
+- Simple and clean GUI using Java Swing
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🛠️ Technologies Used
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java
+- Java Swing (GUI)
+- Object-Oriented Programming
+- Basic Game Physics
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 💡 How to Run
 
-## Dependency Management
+1. Clone the repository: git clone https://github.com/yourusername/FlyingBird.git
+2. Open the project in your favorite Java IDE (like IntelliJ or Eclipse).
+3. Make sure the required .jar files are added to the project’s classpath if external libraries are used.
+4. Compile and run the FlyingBird.java file.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+🤝 Contributing
+Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or open an issue.
+
+## 🙋‍♂️ Author
+
+**Chavali Rahul**  
+🔗 [GitHub](https://github.com/rahulchavali3)
